@@ -75,16 +75,9 @@ This project demonstrates the essential steps in data preprocessing and preparin
 
 HOW TO USE
 
-Clone the repository:
+clone the respository
 
-git clone https://github.com/MRamya-sri/Data-Preprocessing-ML.git
+Navigate to the project directory
 
-Navigate to the project directory:
+Open the notebooks in Jupyter
 
-cd Data-Preprocessing-ML
-
-Open the notebooks in Jupyter:
-
-jupyter notebook data-preprocessing.ipynb
-
-jupyter notebook split-and-predicting.ipynb
